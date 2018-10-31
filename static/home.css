@@ -1,0 +1,12 @@
+#HomeHeader {
+    background-color: rgb(191, 87, 22);
+    border: 3px dashed rgb(29, 43, 200);
+    margin: 25px;
+    padding: 25px;
+    }
+    #HomeHeader2 {
+    background-color: yellow;
+    border: 3px dashed green;
+    margin: 25px;
+    padding: 25px;
+    }
