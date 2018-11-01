@@ -1,0 +1,1 @@
+This work is the result of a one-day crash course in building an interactive website with a data science backend so visiters can explore my model. 
